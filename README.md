@@ -1,5 +1,7 @@
 # Malek Hanounah
 
+![Uploading 1.png…]()
+
 ### Contact 
 Institut für Mathematik und Informatik
 
@@ -8,6 +10,7 @@ Walther-Rathenau-Straße 47, 17489
 Greifswald, Germany.
 
 malek.hanounah at uni-greifswald.de 
+
 --------------------------------------------------------
 I am a PhD student at Greifswald University under the supervision of [Ines Kath](https://math-inf.uni-greifswald.de/institut/ueber-uns/mitarbeitende/kath/). I am interested in locally homogeneous pseudo-Riemannian geometries, and in Geometric structures in general. 
 My Master thesis on Apollonian circle packings ([here](https://drive.google.com/file/d/12N36Iyyq2KrwBQ_KjhLNsZJuQL9_NLsq/view?usp=sharing), [slides](https://drive.google.com/file/d/10tKowDKs3TsrwXf91NMXwWzTU_OEzI0R/view)). You find here my [CV](https://drive.google.com/file/d/1vPHZxKReGPJ2MypYwuwoCZs84Cqr0ClB/view) (version of October 2023).
@@ -21,8 +24,8 @@ I am currently co-organizing the Tassili Sunday Maths Seminar ([here](https://si
 
 ## Events and Seminars
 
-Tassili Sunday Maths Seminar ([TSMS](https://sites.google.com/view/tsmseminar-maths/home?pli=1)).
+- Tassili Sunday Maths Seminar ([TSMS](https://sites.google.com/view/tsmseminar-maths/home?pli=1)).
 
-Pure Math Open Days ([PMOD](https://sites.google.com/view/puremathopendays/home?authuser=0)).
+- Pure Math Open Days ([PMOD](https://sites.google.com/view/puremathopendays/home?authuser=0)).
 
  
