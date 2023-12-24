@@ -1,7 +1,5 @@
 # Malek Hanounah
 
-![Uploading 1.png]
-
 ### Contact 
 Institut für Mathematik und Informatik
 
