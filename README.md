@@ -20,7 +20,7 @@ I am currently co-organizing the Tassili Sunday Maths Seminar ([here](https://si
 
 2. On homogeneous of plane waves (with [Lilia Mehidi](https://mehidi.pages.math.cnrs.fr/siteweb/) and [Abdelghani Zeghib](https://perso.ens-lyon.fr/zeghib/)), 2023, [arXiv: 2311.07459](https://arxiv.org/abs/2311.07459).
 
-## MathWwin
+## MathWin
 
 I am an active member of the MathWin project. One of the main goals of this project is to provide a solid and polyvalent mathematical training for excellent first and second year University students. Currently I am co-tutoring Choubila Guerfi and Yasser Merabet (started on August 2022).
 
