@@ -22,7 +22,7 @@ I am currently co-organizing the Tassili Sunday Maths Seminar ([here](https://si
 
 ## MathWin
 
-I am an active member of the [MathWin] project. One of the main goals of this project is to provide a solid and polyvalent mathematical training for excellent first and second year University students. Currently I am co-tutoring Choubila Guerfi and Yasser Merabet (started on August 2022).
+I am an active member of the [MathWin](https://mathwin.org/) project. One of the main goals of this project is to provide a solid and polyvalent mathematical training for excellent first and second year University students. Currently I am co-tutoring Choubila Guerfi and Yasser Merabet (started on August 2022).
 
 ## Events and Seminars
 
