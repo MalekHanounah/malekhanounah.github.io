@@ -1,4 +1,4 @@
-# Malek Hanounah
+# Malek Hanounah <img src="marseille-min.png" alt="Pegeon and I at the port of Marseille" style="width:400px; height:300px;"  alt="Alt text" align="right">
 ### Contact 
 Institut für Mathematik und Informatik
 
@@ -7,8 +7,6 @@ Walther-Rathenau-Straße 47, 17489
 Greifswald, Germany.
 
 malek.hanounah at uni-greifswald.de 
-
-<img src="marseille-min.png" alt="Pegeon and I at the port of Marseille" style="width:400px; height:300px;"  alt="Alt text" align="right">
 
 
 --------------------------------------------------------
