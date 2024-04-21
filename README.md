@@ -8,7 +8,7 @@ Greifswald, Germany.
 
 malek.hanounah at uni-greifswald.de 
 
-<img src="marseille-min.png" alt="Pegeon and I at the port of Marseille" style="width:400px; height:200px;"  alt="Alt text" align="right">
+<img src="marseille-min.png" alt="Pegeon and I at the port of Marseille" style="width:400px; height:300px;"  alt="Alt text" align="right">
 
 
 --------------------------------------------------------
