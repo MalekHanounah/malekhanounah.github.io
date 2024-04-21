@@ -1,4 +1,5 @@
-# Malek Hanounah <img src="marseille-min.png" alt="Pegeon and I at the port of Marseille" style="width:400px; height:300px;"  alt="Alt text" align="right">
+# Malek Hanounah 
+<img src="marseille-min.png" alt="Pegeon and I at the port of Marseille" style="width:400px; height:300px;"  alt="Alt text" align="right">
 ### Contact 
 Institut für Mathematik und Informatik
 
