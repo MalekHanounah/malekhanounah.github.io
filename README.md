@@ -1,4 +1,5 @@
 # Malek Hanounah
+<!-- Right aligned --> <img src="1.png" alt="Me in Marseille port" style="float:right; margin-left: 10px;">
 ### Contact 
 Institut für Mathematik und Informatik
 
@@ -6,10 +7,9 @@ Walther-Rathenau-Straße 47, 17489
 
 Greifswald, Germany.
 
-malek.hanounah at uni-greifswald.de <!-- Right aligned -->
-<img src="1.png" alt="Me in Marseille port" style="float:right; margin-left: 10px;">
+malek.hanounah at uni-greifswald.de 
 --------------------------------------------------------
-I am a PhD student at Greifswald University under the supervision of [Ines Kath](https://math-inf.uni-greifswald.de/institut/ueber-uns/mitarbeitende/kath/). I am interested in locally homogeneous pseudo-Riemannian geometries, and in Geometric structures in general. ![Me in Marseille port](1.png)
+I am a PhD student at Greifswald University under the supervision of [Ines Kath](https://math-inf.uni-greifswald.de/institut/ueber-uns/mitarbeitende/kath/). I am interested in locally homogeneous pseudo-Riemannian geometries, and in Geometric structures in general. 
 
 My Master thesis on Apollonian circle packings ([here](https://drive.google.com/file/d/12N36Iyyq2KrwBQ_KjhLNsZJuQL9_NLsq/view?usp=sharing), [slides](https://drive.google.com/file/d/10tKowDKs3TsrwXf91NMXwWzTU_OEzI0R/view)). You find here my [CV](https://drive.google.com/file/d/1B-CkZD9cGn8D5XsIuRrrfRpQCmclnE2x/view?usp=sharing) (version of October 2023).
 I am currently co-organizing the Tassili Sunday Maths Seminar ([here](https://sites.google.com/view/tsmseminar-maths/home?pli=1)) and the Research Seminar at Greifswald University ([here](https://math-inf.uni-greifswald.de/forschung/algebra-geometrie-und-topologie/analysis/)).
