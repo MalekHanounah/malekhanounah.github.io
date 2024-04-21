@@ -38,6 +38,6 @@ I am an active member of the [MathWin](https://mathwin.org/about/) project. One 
 
 - Pure Math Open Days ([PMOD](https://sites.google.com/view/puremathopendays/home?authuser=0)).
 
-<img src="marseille-min.png" alt="Pegeon and I at the port of Marseille" style="width:400px; height:300px;"  alt="Alt text" align="right">
+<img src="marseille-min.png" alt="Pegeon and I at the port of Marseille"   alt="Alt text" align="right">
 
  
