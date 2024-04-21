@@ -8,6 +8,8 @@ Greifswald, Germany.
 
 malek.hanounah at uni-greifswald.de 
 
+<!-- Right aligned -->
+<img src="1.png" alt="Me in Marseille port" style="float:right; margin-left: 10px;">
 --------------------------------------------------------
 I am a PhD student at Greifswald University under the supervision of [Ines Kath](https://math-inf.uni-greifswald.de/institut/ueber-uns/mitarbeitende/kath/). I am interested in locally homogeneous pseudo-Riemannian geometries, and in Geometric structures in general. ![Me in Marseille port](1.png)
 
