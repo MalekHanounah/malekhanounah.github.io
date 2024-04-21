@@ -1,7 +1,6 @@
 # Malek Hanounah
 
-<!-- Specify width only -->
-<!-- Right aligned --> <img src="1.png" alt="Me in Marseille port" style="width:300px;">
+<!-- Specify width only --> <img src="1.png" alt="Me in Marseille port" style="width:300px;">
 
 
 ### Contact 
