@@ -1,7 +1,7 @@
 # Malek Hanounah
 
 <!-- Right aligned --> 
-<img src="2.png" alt="Pegeon and I at the port of Marseille" style="width:300px;" alt="Alt text" align="right">
+<img src="marseille-min.png" alt="Pegeon and I at the port of Marseille" style="width:300px;" alt="Alt text" align="right">
 
 
 ### Contact 
