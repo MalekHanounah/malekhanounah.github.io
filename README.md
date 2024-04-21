@@ -1,12 +1,8 @@
 # Malek Hanounah
+<!-- Left aligned -->
 <!-- Specify width only -->
 <img src="1.png" alt="Me in Marseille port" style="width:300px;">
 
-<!-- Specify height only -->
-<img src="1.png" alt="Me in Marseille port" style="height:200px;">
-
-<!-- Specify both width and height -->
-<img src="1.png" alt="Me in Marseille port" style="width:300px; height:200px;">
 
 ### Contact 
 Institut für Mathematik und Informatik
