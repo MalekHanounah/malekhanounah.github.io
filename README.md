@@ -20,11 +20,11 @@ I am currently co-organizing the Tassili Sunday Maths Seminar ([here](https://si
 ## Research 
 
 1. Completeness of foliated structures, and null Killing fields (with [Lilia Mehidi](https://mehidi.pages.math.cnrs.fr/siteweb/)), 2024, [arXiv:2403.15722
-](https://arxiv.org/abs/2403.15722).
+](https://arxiv.org/abs/2403.15722), submitted.
 
-2. On homogeneous plane waves (with [Lilia Mehidi](https://mehidi.pages.math.cnrs.fr/siteweb/) and [Abdelghani Zeghib](https://perso.ens-lyon.fr/zeghib/)), 2023, [arXiv: 2311.07459](https://arxiv.org/abs/2311.07459).
+2. On homogeneous plane waves (with [Lilia Mehidi](https://mehidi.pages.math.cnrs.fr/siteweb/) and [Abdelghani Zeghib](https://perso.ens-lyon.fr/zeghib/)), 2023, [arXiv: 2311.07459](https://arxiv.org/abs/2311.07459), submitted.
 
-3. Topology and Dynamics of compact plane waves (with [Ines Kath](https://math-inf.uni-greifswald.de/institut/ueber-uns/mitarbeitende/kath/), [Lilia Mehidi](https://mehidi.pages.math.cnrs.fr/siteweb/) and [Abdelghani Zeghib](https://perso.ens-lyon.fr/zeghib/)), 2023, [arXiv: 2309.14955](https://arxiv.org/abs/2309.14955).
+3. Topology and Dynamics of compact plane waves (with [Ines Kath](https://math-inf.uni-greifswald.de/institut/ueber-uns/mitarbeitende/kath/), [Lilia Mehidi](https://mehidi.pages.math.cnrs.fr/siteweb/) and [Abdelghani Zeghib](https://perso.ens-lyon.fr/zeghib/)), 2023, [arXiv: 2309.14955](https://arxiv.org/abs/2309.14955), submitted.
 
 
 
