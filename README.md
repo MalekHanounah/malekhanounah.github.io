@@ -1,5 +1,6 @@
 # Malek Hanounah
 
+<!-- Right aligned --> 
 <img src="1.png" alt="Me in Marseille port" style="width:300px;">
 
 
