@@ -8,6 +8,7 @@ Walther-Rathenau-Straße 47, 17489
 Greifswald, Germany.
 
 malek.hanounah at uni-greifswald.de 
+
 --------------------------------------------------------
 I am a PhD student at Greifswald University under the supervision of [Ines Kath](https://math-inf.uni-greifswald.de/institut/ueber-uns/mitarbeitende/kath/). I am interested in locally homogeneous pseudo-Riemannian geometries, and in Geometric structures in general. 
 
