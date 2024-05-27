@@ -8,7 +8,7 @@ Walther-Rathenau-Straße 47, 17489
 
 Greifswald, Germany.
 
-malek.hanounah at uni-greifswald.de 
+ [malek.hanounah at uni-greifswald.de](malek.hanounah@uni-greifswald.de)
 
 
 --------------------------------------------------------
