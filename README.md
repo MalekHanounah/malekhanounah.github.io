@@ -14,7 +14,7 @@ Greifswald, Germany.
 --------------------------------------------------------
 I am a PhD student at Greifswald University under the supervision of [Ines Kath](https://math-inf.uni-greifswald.de/institut/ueber-uns/mitarbeitende/kath/). I am interested in locally homogeneous pseudo-Riemannian geometries, and in Geometric structures in general. 
 
-My Master thesis on Apollonian circle packings ([here](https://drive.google.com/file/d/12N36Iyyq2KrwBQ_KjhLNsZJuQL9_NLsq/view?usp=sharing), [slides](https://drive.google.com/file/d/10tKowDKs3TsrwXf91NMXwWzTU_OEzI0R/view)). You find here my [CV](https://drive.google.com/file/d/185GIKrDwf7i63yBIMoxF6iA5jzkqJmaX/view?usp=sharing) (version of June 2024).
+My Master thesis on Apollonian circle packings ([here](https://drive.google.com/file/d/12N36Iyyq2KrwBQ_KjhLNsZJuQL9_NLsq/view?usp=sharing), [slides](https://drive.google.com/file/d/10tKowDKs3TsrwXf91NMXwWzTU_OEzI0R/view)). You find here my [CV](https://drive.google.com/file/d/1NpEO9K4vgkmHKNJsyJ77BDZC7yWhcRrE/view?usp=sharing) (version of June 2024).
 I am currently co-organizing the Tassili Sunday Maths Seminar ([here](https://sites.google.com/view/tsmseminar-maths/home?pli=1)) and the Research Seminar at Greifswald University ([here](https://math-inf.uni-greifswald.de/forschung/algebra-geometrie-und-topologie/analysis/)).
 
 ## Research 
