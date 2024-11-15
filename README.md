@@ -40,7 +40,7 @@ I am an active member of the [MathWin](https://mathwin.org/about/) project. One 
 
 - Pure Math Open Days ([PMOD](https://sites.google.com/view/puremathopendays/home?authuser=0)).
 
-<img src="Calanque_marseille.png" alt="Calanque mountains"   alt="Alt text" align="right">
+<img src="Calanque_marseille_cirm.png" alt="Calanque mountains"   alt="Alt text" align="right">
 
  
 (Update: 09-06-2024)
