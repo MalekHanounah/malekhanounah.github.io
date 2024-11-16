@@ -43,6 +43,6 @@ I am an active member of the [MathWin](https://mathwin.org/about/) project. One 
 <img src="Calanque_marseille_cirm.png" alt="Calanque mountains"   alt="Alt text" align="right">
 
  
-(Update: 09-06-2024)
+(Update: 15-11-2024)
 
 
