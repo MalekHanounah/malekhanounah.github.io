@@ -24,7 +24,7 @@ I am currently co-organizing the Tassili Sunday Maths Seminar ([here](https://si
 
 2. On homogeneous plane waves (with [Lilia Mehidi](https://mehidi.pages.math.cnrs.fr/siteweb/) and [Abdelghani Zeghib](https://perso.ens-lyon.fr/zeghib/)), 2023, [arXiv: 2311.07459](https://arxiv.org/abs/2311.07459), submitted.
 
-3. Topology and Dynamics of compact plane waves (with [Ines Kath](https://math-inf.uni-greifswald.de/institut/ueber-uns/mitarbeitende/kath/), [Lilia Mehidi](https://mehidi.pages.math.cnrs.fr/siteweb/) and [Abdelghani Zeghib](https://perso.ens-lyon.fr/zeghib/)), 2023, [arXiv: 2309.14955](https://arxiv.org/abs/2309.14955), Crelle Journal, to appear.
+3. Topology and Dynamics of compact plane waves (with [Ines Kath](https://math-inf.uni-greifswald.de/institut/ueber-uns/mitarbeitende/kath/), [Lilia Mehidi](https://mehidi.pages.math.cnrs.fr/siteweb/) and [Abdelghani Zeghib](https://perso.ens-lyon.fr/zeghib/)), 2023, [arXiv: 2309.14955](https://arxiv.org/abs/2309.14955), **Crelle Journal** ([pdf](https://drive.google.com/file/d/1ULRemUwffbqModM57exAuRwTP5NIW2sn/view?usp=sharing)) .
 
 ## Talks at seminars and conferences
 1. Tassili Sunday Maths Seminar (TSMS): Foliated geometric structures (09/06/2024) ([slides](https://drive.google.com/file/d/1f1qrPdYqkIJvVMStndP8deAxP3f_YyLI/view?usp=sharing)).
