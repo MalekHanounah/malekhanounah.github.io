@@ -19,7 +19,7 @@ I am currently co-organizing the Tassili Sunday Maths Seminar ([here](https://si
 
 ## Research 
 
-3. Completeness of foliated structures, and null Killing fields (with [Lilia Mehidi](https://mehidi.pages.math.cnrs.fr/siteweb/)), [arXiv
+1. Completeness of foliated structures, and null Killing fields (with [Lilia Mehidi](https://mehidi.pages.math.cnrs.fr/siteweb/)), [arXiv
 ](https://arxiv.org/abs/2403.15722) (2024), **Mathematische Annalen**, [pdf](https://link.springer.com/article/10.1007/s00208-025-03095-9) (2025).
 
 2. On homogeneous plane waves (with [Lilia Mehidi](https://mehidi.pages.math.cnrs.fr/siteweb/) and [Abdelghani Zeghib](https://perso.ens-lyon.fr/zeghib/)), (2023), [arXiv](https://arxiv.org/abs/2311.07459), submitted.
