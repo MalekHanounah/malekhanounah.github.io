@@ -1,3 +1,64 @@
+
+## Welcome to My GitHub Page
+
+### Navigation:
+- [Home](home.md)
+- [Research](research.md)
+- [Others](others.md)
+
+---
+
+### Separate Pages
+
+Create the following files in your repository to store content for each section:
+
+#### `home.md`
+```markdown
+# Home
+
+![My Image](https://via.placeholder.com/600x300)
+
+Welcome to my GitHub page! Here you will find my latest projects, research, and other contributions.
+
+[Back to Main Page](README.md)
+```
+
+#### `research.md`
+```markdown
+# Research
+
+Here you can find my latest research work:
+- 🔬 **Project 1:** Description of research topic.
+- 📊 **Project 2:** Insights on another research area.
+- 📖 **Project 3:** Summary of findings in a relevant field.
+
+[Back to Main Page](README.md)
+```
+
+#### `others.md`
+```markdown
+# Others
+
+Miscellaneous projects, side works, and experimental developments can be found here.
+- 🎨 Creative projects
+- 🛠 Tools and utilities
+- 🌍 Open-source contributions
+
+[Back to Main Page](README.md)
+```
+
+---
+
+*Stay tuned for more updates!*
+
+
+
+
+
+
+
+
+
 ## Malek Hanounah
 
 ### Navigation:
