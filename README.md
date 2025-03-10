@@ -1,10 +1,9 @@
 ## Malek Hanounah
 
 ### Navigation:
-- [Home](#home)
-- [Research](#research)
-- [Others](#others)
-
+- [Home](home.md)
+- [Research](research.md)
+- [Others](others.md)
 ---
 
 
