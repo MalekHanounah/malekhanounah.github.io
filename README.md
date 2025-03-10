@@ -1,56 +1,83 @@
 
-## Welcome to My GitHub Page
+# My GitHub Page
 
-### Navigation:
-- [Home](home.md)
-- [Research](research.md)
-- [Others](others.md)
+Welcome to my GitHub page! I am a mathematician, and here you will find my research, projects, and other contributions.
 
----
+## Navigation
 
-### Separate Pages
+Below are three horizontal tabs that link to different pages:
 
-Create the following files in your repository to store content for each section:
-
-#### `home.md`
-```markdown
-# Home
-
-![My Image](https://via.placeholder.com/600x300)
-
-Welcome to my GitHub page! Here you will find my latest projects, research, and other contributions.
-
-[Back to Main Page](README.md)
-```
-
-#### `research.md`
-```markdown
-# Research
-
-Here you can find my latest research work:
-- 🔬 **Project 1:** Description of research topic.
-- 📊 **Project 2:** Insights on another research area.
-- 📖 **Project 3:** Summary of findings in a relevant field.
-
-[Back to Main Page](README.md)
-```
-
-#### `others.md`
-```markdown
-# Others
-
-Miscellaneous projects, side works, and experimental developments can be found here.
-- 🎨 Creative projects
-- 🛠 Tools and utilities
-- 🌍 Open-source contributions
-
-[Back to Main Page](README.md)
+```html
+<ul>
+  <li><a href="home.html">Home</a></li>
+  <li><a href="research.html">Research</a></li>
+  <li><a href="others.html">Others</a></li>
+</ul>
 ```
 
 ---
 
-*Stay tuned for more updates!*
+## Creating Separate Pages
 
+### `home.html`
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+</head>
+<body>
+    <h1>Home</h1>
+    <img src="https://via.placeholder.com/600x300" alt="Mathematical Image">
+    <p>Welcome to my GitHub page! Here you will find my latest projects, research, and contributions in mathematics.</p>
+    <a href="index.html">Back to Main Page</a>
+</body>
+</html>
+```
+
+### `research.html`
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Research</title>
+</head>
+<body>
+    <h1>Research</h1>
+    <p>Here you can find my latest research work in mathematics:</p>
+    <ul>
+        <li>📚 <b>Algebraic Structures</b>: Exploring advanced group theory.</li>
+        <li>📊 <b>Mathematical Analysis</b>: Research in real and complex analysis.</li>
+        <li>🔢 <b>Number Theory</b>: Prime number distributions and cryptography.</li>
+    </ul>
+    <a href="index.html">Back to Main Page</a>
+</body>
+</html>
+```
+
+### `others.html`
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Others</title>
+</head>
+<body>
+    <h1>Others</h1>
+    <p>Miscellaneous projects, notes, and open-source contributions related to mathematics.</p>
+    <ul>
+        <li>🛠 Mathematical tools and utilities</li>
+        <li>🎓 Educational materials and tutorials</li>
+        <li>🌍 Contributions to mathematical communities</li>
+    </ul>
+    <a href="index.html">Back to Main Page</a>
+</body>
+</html>
+```
+
+---
+
+This setup provides three horizontal navigation tabs that
 
 
 
