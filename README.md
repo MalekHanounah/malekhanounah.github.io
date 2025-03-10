@@ -1,84 +1,4 @@
 
-# My GitHub Page
-
-Welcome to my GitHub page! I am a mathematician, and here you will find my research, projects, and other contributions.
-
-## Navigation
-
-Below are three horizontal tabs that link to different pages:
-
-```html
-<ul>
-  <li><a href="home.html">Home</a></li>
-  <li><a href="research.html">Research</a></li>
-  <li><a href="others.html">Others</a></li>
-</ul>
-```
-
----
-
-## Creating Separate Pages
-
-### `home.html`
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Home</title>
-</head>
-<body>
-    <h1>Home</h1>
-    <img src="https://via.placeholder.com/600x300" alt="Mathematical Image">
-    <p>Welcome to my GitHub page! Here you will find my latest projects, research, and contributions in mathematics.</p>
-    <a href="index.html">Back to Main Page</a>
-</body>
-</html>
-```
-
-### `research.html`
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Research</title>
-</head>
-<body>
-    <h1>Research</h1>
-    <p>Here you can find my latest research work in mathematics:</p>
-    <ul>
-        <li>📚 <b>Algebraic Structures</b>: Exploring advanced group theory.</li>
-        <li>📊 <b>Mathematical Analysis</b>: Research in real and complex analysis.</li>
-        <li>🔢 <b>Number Theory</b>: Prime number distributions and cryptography.</li>
-    </ul>
-    <a href="index.html">Back to Main Page</a>
-</body>
-</html>
-```
-
-### `others.html`
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Others</title>
-</head>
-<body>
-    <h1>Others</h1>
-    <p>Miscellaneous projects, notes, and open-source contributions related to mathematics.</p>
-    <ul>
-        <li>🛠 Mathematical tools and utilities</li>
-        <li>🎓 Educational materials and tutorials</li>
-        <li>🌍 Contributions to mathematical communities</li>
-    </ul>
-    <a href="index.html">Back to Main Page</a>
-</body>
-</html>
-```
-
----
-
-This setup provides three horizontal navigation tabs that
-
 
 
 
@@ -88,15 +8,6 @@ This setup provides three horizontal navigation tabs that
 
 ## Malek Hanounah
 
-### Navigation:
-- [Home](home.md)
-- [Research](research.md)
-- [Others](others.md)
----
-
-
-
-## Home <a name="Home"></a> 
 Institut für Mathematik und Informatik
 
 Walther-Rathenau-Straße 47, 17489
