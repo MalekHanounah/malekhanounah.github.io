@@ -1,7 +1,15 @@
-# Malek Hanounah 
+## Malek Hanounah
+
+### Navigation:
+- [Home](#home)
+- [Research](#research)
+- [Others](#others)
+
+---
 
 
-### Contact 
+
+## Home <a name="Home"></a> 
 Institut für Mathematik und Informatik
 
 Walther-Rathenau-Straße 47, 17489
