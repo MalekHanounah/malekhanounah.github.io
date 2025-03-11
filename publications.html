@@ -1,25 +1,21 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-    
-    
     <title>Numbered List Upward</title>
     <style>
         ol {
             counter-reset: list-counter; /* Initialize the counter */
             list-style-type: none; /* Remove default bullets */
+            display: flex;
+            flex-direction: column-reverse; /* Reverse the order of list items */
         }
         ol li {
             counter-increment: list-counter; /* Increment the counter */
         }
         ol li::before {
             content: counter(list-counter) ". "; /* Display the counter value */
-            direction: rtl; /* Reverse the numbering direction */
         }
     </style>
 </head>
@@ -38,12 +34,6 @@
     </li>
 </ol>
 
-
-
-    
-    
-    
-    
-    <p><a href="index.html">Back to Home</a></p>
+<p><a href="index.html">Back to Home</a></p>
 </body>
 </html>
