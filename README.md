@@ -6,7 +6,7 @@
 
 
 
-### Malek Hanounah
+## Malek Hanounah
 
 Institut für Mathematik und Informatik
 
@@ -32,7 +32,7 @@ I am currently co-organizing the Tassili Sunday Maths Seminar ([here](https://si
 
 1- Topology and Dynamics of compact plane waves (with [Ines Kath](https://math-inf.uni-greifswald.de/institut/ueber-uns/mitarbeitende/kath/), [Lilia Mehidi](https://mehidi.pages.math.cnrs.fr/siteweb/) and [Abdelghani Zeghib](https://perso.ens-lyon.fr/zeghib/)), [arXiv](https://arxiv.org/abs/2309.14955) (2023), **Crelle's Journal** [pdf](https://drive.google.com/file/d/1ULRemUwffbqModM57exAuRwTP5NIW2sn/view?usp=sharing) (2024).
 
-## Talks at seminars and conferences
+### Talks at seminars and conferences
 1. Tassili Sunday Maths Seminar (TSMS): Foliated geometric structures (09/06/2024) ([slides](https://drive.google.com/file/d/1f1qrPdYqkIJvVMStndP8deAxP3f_YyLI/view?usp=sharing)).
    
 
@@ -40,7 +40,7 @@ I am currently co-organizing the Tassili Sunday Maths Seminar ([here](https://si
 
 I am an active member of the [MathWin](https://mathwin.org/) project. One of the main goals of this project is to provide a solid and polyvalent mathematical training for excellent first and second year University students.
 
-## Events and Seminars
+### Events and Seminars
 
 - Tassili Sunday Maths Seminar ([TSMS](https://sites.google.com/view/tsmseminar-maths/home?pli=1)).
 
