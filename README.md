@@ -25,6 +25,7 @@ I am currently co-organizing the Tassili Sunday Maths Seminar ([here](https://si
 
 ### Research 
 
+[Publications](publications.md)
 3- On completeness of foliated structures, and null Killing fields (with [Lilia Mehidi](https://mehidi.pages.math.cnrs.fr/siteweb/)), [arXiv
 ](https://arxiv.org/abs/2403.15722) (2024), **Mathematische Annalen**, [pdf](https://link.springer.com/article/10.1007/s00208-025-03095-9) (2025).
 
