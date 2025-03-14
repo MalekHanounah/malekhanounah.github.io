@@ -36,13 +36,14 @@
         }
 /* Image fixed at the bottom center */
        /* Image fixed at the bottom-right */
-        .top-right-image {
-            position: absolute;
-            top: 100px; /* Distance from the bottom */
-            right: 10px; /* Distance from the right */
-            width: 150px; /* Image width */
+      .bottom-center-image {
+            position: absolute; /* Fix position to keep it in place */
+            bottom: 20px; /* 20px from the bottom */
+            left: 50%; /* Move to the center horizontally */
+            transform: translateX(-50%); /* Adjust to perfectly center */
+            width: 250px; /* Set the width */
             height: auto; /* Maintain aspect ratio */
-            z-index: 9999; /* Keep it above other elements */
+            z-index: 9999; /* Ensure it stays on top */
         }
 
     </style>
@@ -85,7 +86,7 @@ Greifswald, Germany. <br>
 <b> Email: malek.hanounah at uni-greifswald.de </b> </p>
 
      <hr>
-    <img src="images/Clanque2.jpg" alt="Top Right Image" class="top-right-image">
+    <img src="images/Clanque2.jpg" alt="Bottom Center Image" class="bottom-center-image">
     
 </body>
 </html>
