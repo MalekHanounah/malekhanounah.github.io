@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.2">
     <title>Malek Hanounah</title>
-     <link rel="icon" href="88x88.png" type="image/png">
+    <link rel="icon" href="88x88.png" type="image/png">
     <style>
         body {
             font-family: Times New Roman, sans-serif;
@@ -20,12 +20,14 @@
 
         /* Navigation Bar */
         .navbar {
-            position: absolut;
+            position: absolute;
             background-color: #008B8B;
             overflow: hidden;
             display: flex;
             justify-content: center;
             padding: 10px 0;
+            width: 100%;
+            top: 0;
         }
         .navbar a {
             color: white;
@@ -37,17 +39,26 @@
             background-color: #C0C0C0;
             border-radius: 5px;
         }
-/* Image fixed at the bottom center */
-       /* Image fixed at the bottom-right */
-     .bottom-image {
-            position: absolute; /* Moves with the page */
-            bottom: 20px; /* Distance from the bottom */
-            left: 50%; /* Center horizontally */
-            transform: translateX(-50%); /* Ensure exact centering */
-            width: 250px; /* Adjust the size */
+
+        /* Profile image */
+        .profile-img {
+            display: block;
+            margin: 20px auto;
+            width: 200px;
             height: auto;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
         }
 
+        /* Bottom image (optional) */
+        .bottom-image {
+            position: absolute;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 250px;
+            height: auto;
+        }
     </style>
 </head>
 <body>
@@ -57,38 +68,40 @@
         <a href="publications.html">Research</a>
         <a href="teaching.html">Teaching</a>
         <a href="mathwin.html">MathWin</a>
-        
     </div>
 
     <h1>Malek Hanounah</h1>
-    
-    
+
+    <!-- Profile Picture -->
+    <img src="Clanque.jpg" alt="Malek Hanounah" class="profile-img">
+
     <h2>About Me</h2>
     <p>I am a PhD student at Greifswald University under the supervision of <a href="https://math-inf.uni-greifswald.de/institut/ueber-uns/mitarbeitende/kath/">Ines Kath</a>. 
 
-My Master thesis on Apollonian circle packings <a href="https://drive.google.com/file/d/12N36Iyyq2KrwBQ_KjhLNsZJuQL9_NLsq/view?usp=sharing">here</a>, <a href="https://drive.google.com/file/d/10tKowDKs3TsrwXf91NMXwWzTU_OEzI0R/view">slides</a>. You find here my <a href="https://drive.google.com/file/d/1X0RHeSlO0di5_ye2FuDTxciR1IvMm2RE/view?usp=sharing">CV</a> (version of June 2024).
-I am currently co-organizing the Tassili Sunday Maths Seminar <a href="https://tassiliseminar.github.io/">here</a> and the Research Seminar at Greifswald University <a href="https://math-inf.uni-greifswald.de/forschung/algebra-geometrie-und-topologie/analysis/">here</a>.
-</p>
-<hr>
-<h3> Interests </h3>
+    My Master thesis on Apollonian circle packings <a href="https://drive.google.com/file/d/12N36Iyyq2KrwBQ_KjhLNsZJuQL9_NLsq/view?usp=sharing">here</a>, <a href="https://drive.google.com/file/d/10tKowDKs3TsrwXf91NMXwWzTU_OEzI0R/view">slides</a>. You find here my <a href="https://drive.google.com/file/d/1X0RHeSlO0di5_ye2FuDTxciR1IvMm2RE/view?usp=sharing">CV</a> (version of June 2024).
+    I am currently co-organizing the Tassili Sunday Maths Seminar <a href="https://tassiliseminar.github.io/">here</a> and the Research Seminar at Greifswald University <a href="https://math-inf.uni-greifswald.de/forschung/algebra-geometrie-und-topologie/analysis/">here</a>.
+    </p>
+
+    <hr>
+
+    <h3>Interests</h3>
     <ul>
-    <li>Geometric structures</li>
-    <li>Locally homogeneous pseudo-Riemannian manifolds (e.g. locally symmetric spaces)</li>
-    <li>Discrete groups</li>
-</ul>
-<hr>
-<h3>Contact</h3>
- <p>   
-Institut für Mathematik und Informatik <br>
+        <li>Geometric structures</li>
+        <li>Locally homogeneous pseudo-Riemannian manifolds (e.g. locally symmetric spaces)</li>
+        <li>Discrete groups</li>
+    </ul>
 
-Walther-Rathenau-Straße 47, 17489 <br>
+    <hr>
 
-Greifswald, Germany. <br>
+    <h3>Contact</h3>
+    <p>   
+        Institut für Mathematik und Informatik <br>
+        Walther-Rathenau-Straße 47, 17489 <br>
+        Greifswald, Germany. <br>
+        <b>Email: malek.hanounah at uni-greifswald.de</b> 
+    </p>
 
-<b> Email: malek.hanounah at uni-greifswald.de </b> </p>
+    <hr>
 
-     <hr>
-
-    
 </body>
 </html>
