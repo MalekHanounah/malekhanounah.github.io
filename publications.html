@@ -2,9 +2,30 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.3">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
     <title>Research</title>
     <style>
+        body {
+    font-size: 1.1rem; /* slightly bigger than default */
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: 1.2rem; /* larger font for phones */
+    padding: 1rem;
+  }
+
+  h1, h2, h3 {
+    font-size: 1.5em;
+  }
+
+  .navbar a {
+    font-size: 1.1rem;
+    padding: 10px;
+  }
+}
+
         ol {
             counter-reset: list-counter; /* Initialize the counter */
             list-style-type: none; /* Remove default bullets */
