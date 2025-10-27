@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Malek Hanounah</title>
     <link rel="icon" href="88x88.png" type="image/png">
+   <button id="theme-toggle" aria-label="Toggle theme">🌓</button>
+
     <style>
         body {
             font-family: Times New Roman, sans-serif;
@@ -27,7 +29,17 @@ body {
     font-size: 1.2rem; /* larger font for phones */
     padding: 1rem;
   }
+body {
+  background-color: white;
+  color: black;
+  transition: background-color 0.3s, color 0.3s;
+}
 
+/* Dark */
+body.dark {
+  background-color: #0d1117;
+  color: #c9d1d9;
+}
   h1, h2, h3 {
     font-size: 1.5em;
   }
