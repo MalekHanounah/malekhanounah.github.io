@@ -67,7 +67,18 @@
     One of the main goals of this project is to provide a solid and polyvalent mathematical training for excellent first and second year University students in Algeria.
 <hr>
     <a href="index.html">⬅ Back to Home</a>
+<script>
+  const btn = document.getElementById('theme-toggle');
+  const body = document.body;
 
+  // Load saved preference
+  if (localStorage.theme === 'dark') body.classList.add('dark');
+
+  btn.addEventListener('click', () => {
+    body.classList.toggle('dark');
+    localStorage.theme = body.classList.contains('dark') ? 'dark' : 'light';
+  });
+</script>
 </body>
 </html>
 
