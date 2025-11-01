@@ -79,6 +79,17 @@
         <li> A two days mini course on finite groups for MathWin students (December 2022). </li>
     </ul>
     <a href="index.html">⬅ Back to Home</a>
+   <script>
+  const btn = document.getElementById('theme-toggle');
+  const body = document.body;
 
+  // Load saved preference
+  if (localStorage.theme === 'dark') body.classList.add('dark');
+
+  btn.addEventListener('click', () => {
+    body.classList.toggle('dark');
+    localStorage.theme = body.classList.contains('dark') ? 'dark' : 'light';
+  });
+</script>
 </body>
 </html>
